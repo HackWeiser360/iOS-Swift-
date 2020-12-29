@@ -1,6 +1,6 @@
 # Introduction
 
-This is a template for getting started with iOS development using GitLab and [fastlane](https://fastlane.tools/).
+This is a template for getting started with iOS development using GitHub and fastlane.
 
 # Getting started
 
